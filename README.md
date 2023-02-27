@@ -1,2 +1,3 @@
-# projet-expo
-Projet React Native basé sur Expo
+# project-template
+
+React Native/Expo project template.
